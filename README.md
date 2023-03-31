@@ -2,11 +2,10 @@
 
 ### Overview 
 - Main idea is to predict if a song will be popular from metadata features. 
-- Original features are collected from Spotify using spotipy
+- Original features are collected from Spotify using spotipy.
 
 ## Requirements
 - See `requirements.txt`
-- Best to use conda envs `conda create -n predict_song`
 
 
 ### Datasets 
