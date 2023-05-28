@@ -1,3 +1,7 @@
 *.pkl
 *.zip 
 *.rar
+*.pickle
+.env
+.cache
+*.html
