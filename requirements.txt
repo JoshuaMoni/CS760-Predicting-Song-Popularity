@@ -16,3 +16,4 @@ scipy
 orjson
 h5py
 tables
+xgboost
