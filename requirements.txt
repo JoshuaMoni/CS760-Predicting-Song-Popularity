@@ -17,3 +17,4 @@ orjson
 h5py
 tables
 xgboost
+langdetect
